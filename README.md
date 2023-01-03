@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 
 ## Alguns projetos que eu fiz 
 
-1. **[Wdiget de cartão de crédito]()** Um widget que valida números de cartão de crédito, associa bandeiras à numeração e completa um template com os dados inseridos pelo usuário. Feito com Node.js.
+1. **[Widget de cartão de crédito](https://explorer-lab-out-22.vercel.app/)** Um widget que valida números de cartão de crédito, associa bandeiras à numeração e completa um template com os dados inseridos pelo usuário. Feito com Node.js.
 
-1. **[Quiz sobre CSS]()** Um quiz que testa seus conhecimentos em CSS e exibe uma pontuação no final 
+1. **[Quiz sobre CSS](https://quiz-css-gules.vercel.app/)** Um quiz que testa seus conhecimentos em CSS e exibe uma pontuação no final 
 
-1. **[Lintree - cartão de visitas]()** Um compilado de links que possui modos claro e escuro
+1. **[Lintree - cartão de visitas](https://portfolio-links-kappa.vercel.app/)** Um compilado de links que possui modos claro e escuro
 
 
 ## Vamos nos conectar? 
