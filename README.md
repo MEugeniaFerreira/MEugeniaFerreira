@@ -1,8 +1,6 @@
 # Olá! Eu sou a Maria Eugênia 👋
 
-Here are some ideas to get you started:
-
-- 🌱 Estou aprendendo JavaScript vanilla
+- 🌱 Estou aprendendo JavaScript e React
 - 📫 Para falar comigo, escreva para meug.ferreira@gmail.com
 
 ## Alguns projetos que eu fiz 
