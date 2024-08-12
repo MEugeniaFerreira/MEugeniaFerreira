@@ -5,9 +5,9 @@
 
 ## Algumas coisas que eu fiz
 
-1. **[Me Avalia]](https://meavalia.netlify.app/)** Página que usando uma API como a do IMDB, lista filmes a partir de busca e exibe informações do filme. Também é possível atribuir uma nota pessoal ao filme (🚧 - em construção)
+1. **[Me Avalia](https://meavalia.netlify.app/)** Página que usando uma API como a do IMDB, lista filmes a partir de busca e exibe informações do filme. Também é possível atribuir uma nota pessoal ao filme (🚧 - em construção)
 
-1. **[Guarda - Coisas](https://portfolio-links-kappa.vercel.app](https://guardacoisas.netlify.app/)** Uma aplicação para adicionar itens numa lista e marcar, possui filtros específicos. (🚧 - em construção)
+1. **[Guarda - Coisas](https://guardacoisas.netlify.app/)** Uma aplicação para adicionar itens numa lista e marcar, possui filtros específicos. (🚧 - em construção)
 
 1. **[Racha-Conta](https://rachaconta.netlify.app/)** Aplicação do tipo "splitwise" onde é possuir adicionar amigos e dividir gastos(🚧 - em construção)
 
