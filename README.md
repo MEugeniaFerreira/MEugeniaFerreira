@@ -8,18 +8,18 @@
 
 <span><img src="https://img.shields.io/badge/Language-English-blue" alt="English" /></span>
 
-- 🌱 I study and work with JavaScript and React
+- 🌱 Fullstack with a passion for Frontend, working with React with Next.js, Tailwind, Jest, TypeScript, GraphQl
 - 📫 To contact me, email me at meug.ferreira@gmail.com
 
 ## Some things I have done
 
 1. **[Expense Manager](https://expense-calculator-theta.vercel.app/)** - A finance manager built with Next.js, Tailwind CSS, and Firebase. The project includes user authentication through Google login, protected routes, and Firebase as the database.
 
-2. **[Me Avalia](https://meavalia.netlify.app/)** - A page that uses an API like IMDB to list movies based on search and display movie information. You can also rate the movie personally (🚧 - under construction).
+2. **[Me Avalia](https://meavalia.netlify.app/)** - A page that uses an API like IMDB to list movies based on search and display movie information. You can also rate the movie personally (🚧).
 
-3. **[Guarda - Coisas](https://guardacoisas.netlify.app/)** - An application to add items to a list and mark them. It also has specific filters. (🚧 - under construction).
+3. **[Guarda - Coisas](https://guardacoisas.netlify.app/)** - An application to add items to a list and mark them. It also has specific filters. (🚧 .
 
-4. **[Racha-Conta](https://rachaconta.netlify.app/)** - A "splitwise" type application where you can add friends and divide expenses. (🚧 - under construction).
+4. **[Racha-Conta](https://rachaconta.netlify.app/)** - A "splitwise" type application where you can add friends and divide expenses. (🚧).
 
 5. **[Credit Card Widget](https://explorer-lab-out-22.vercel.app/)** - A widget that validates credit card numbers, associates card brands to the numbers, and completes a template with the data entered by the user. Made with Node.js.
 
@@ -37,18 +37,18 @@
 
 <span><img src="https://img.shields.io/badge/Language-Portuguese-green" alt="Portuguese" /></span>
 
-- 🌱 Estudo e trabalho com JavaScript e React
+- 🌱 Desenvolvedora fullstack com um pé forte no Frontend, trabalho com React junto a Next.js, Tailwind, Jest, TypeScript, GraphQl
 - 📫 Para falar comigo, escreva para meug.ferreira@gmail.com
 
 ## Algumas coisas que eu fiz
 
 1. **[Gerenciador de Finanças](https://expense-calculator-theta.vercel.app/)** - Gerenciador de Finança criado com Next.js, Tailwind CSS e Firebase. O projeto inclui autenticação de usuários por meio de login do Google, rotas protegidas e Firebase como base de dados.
 
-2. **[Me Avalia](https://meavalia.netlify.app/)** - Página que usando uma API como a do IMDB, lista filmes a partir de busca e exibe informações do filme. Também é possível atribuir uma nota pessoal ao filme (🚧 - em construção).
+2. **[Me Avalia](https://meavalia.netlify.app/)** - Página que usando uma API como a do IMDB, lista filmes a partir de busca e exibe informações do filme. Também é possível atribuir uma nota pessoal ao filme (🚧).
 
-3. **[Guarda - Coisas](https://guardacoisas.netlify.app/)** - Uma aplicação para adicionar itens numa lista e marcar, possui filtros específicos. (🚧 - em construção).
+3. **[Guarda - Coisas](https://guardacoisas.netlify.app/)** - Uma aplicação para adicionar itens numa lista e marcar, possui filtros específicos. (🚧).
 
-4. **[Racha-Conta](https://rachaconta.netlify.app/)** - Aplicação do tipo "splitwise" onde é possível adicionar amigos e dividir gastos. (🚧 - em construção).
+4. **[Racha-Conta](https://rachaconta.netlify.app/)** - Aplicação do tipo "splitwise" onde é possível adicionar amigos e dividir gastos. (🚧).
 
 5. **[Widget de Cartão de Crédito](https://explorer-lab-out-22.vercel.app/)** - Um widget que valida números de cartão de crédito, associa bandeiras à numeração e completa um template com os dados inseridos pelo usuário. Feito com Node.js.
 
