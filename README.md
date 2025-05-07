@@ -8,7 +8,7 @@
 
 <span><img src="https://img.shields.io/badge/Language-English-blue" alt="English" /></span>
 
-- 🌱 Fullstack with a passion for Frontend, working with React with Next.js, Tailwind, Jest, TypeScript, GraphQl
+- 🌱 Fullstack with a passion for Frontend, working on React environment with Next.js, Tailwind, Jest, TypeScript, GraphQl
 - 📫 To contact me, email me at meug.ferreira@gmail.com
 
 ## Some things I have done
